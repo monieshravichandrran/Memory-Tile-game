@@ -1,4 +1,4 @@
- Memory-Trigger
+ # Memory-Trigger
  
 In the current meta, people with good memories are often seen as knowledgeable, smart, competent, and dependable. 
 Memory Trigger - A DosBox (Turbo C++) based desktop game app is aimed at helping improve their remembering power in a fun and easy way.
